@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<herd>
+   <labyak age="3" name="Betty-1" sex="f"/>
+   <labyak age="8" name="Betty-2" sex="f"/>
+   <labyak age="9.5" name="Betty-3" sex="f"/>
+</herd>
